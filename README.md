@@ -1,1 +1,1 @@
-# Scientific-Computing-with-Python-FreeCodeCamp
+# Machine Learning and Deep Learning Projects in Python
